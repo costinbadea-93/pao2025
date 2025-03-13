@@ -1,8 +1,10 @@
 Programare avansata pe obiecte - proiect 
 Fiecare student va lucra la un proiect individual. Proiectul este structurat în mai multe etape. 
 Condiția de punctare a proiectelor: 
+
 • să nu prezinte erori de compilare 
 • să se implementeze cerințele date 
+
 Termene de predare: 
 • Etapa I: săptămâna 14 – 18 aprilie
 • Etapa II: săptămâna 2 – 6 iunie
