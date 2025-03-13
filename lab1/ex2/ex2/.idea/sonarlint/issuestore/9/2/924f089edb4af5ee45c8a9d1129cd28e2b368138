@@ -1,0 +1,84 @@
+
+E
+java:S2189„""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÇãŒÛØ2
+X
+java:S1854T"6Remove this useless assignment to local variable "n6".(ÛÑ”úÿÿÿÿ8ÇãŒÛØ2
+R
+java:S18548"6Remove this useless assignment to local variable "n5".(¡áõ)8ÇãŒÛØ2
+R
+java:S1854."6Remove this useless assignment to local variable "f3".(†áÒ8ÇãŒÛØ2
+X
+java:S1854-"6Remove this useless assignment to local variable "d3".(“§–Šüÿÿÿÿ8ÇãŒÛØ2
+R
+java:S1854%"6Remove this useless assignment to local variable "d2".(ÖüªY8ÇãŒÛØ2
+X
+java:S1854$"6Remove this useless assignment to local variable "f2".(Ô¿©¨øÿÿÿÿ8ÇãŒÛØ2
+S
+java:S1854""6Remove this useless assignment to local variable "d1".(»ãˆ8ÇãŒÛØ2
+S
+java:S1854!"6Remove this useless assignment to local variable "f1".(¼ïñ˜8ÇãŒÛØ2
+X
+java:S1854"6Remove this useless assignment to local variable "n3".(ñ²¾™ûÿÿÿÿ8ÇãŒÛØ2
+X
+java:S1854"6Remove this useless assignment to local variable "n2".(ß‚Ä˜øÿÿÿÿ8ÇãŒÛØ2
+X
+java:S1854"6Remove this useless assignment to local variable "n1".(©­¨ÿÿÿÿÿ8ÇãŒÛØ2
+S
+java:S1854"6Remove this useless assignment to local variable "s2".(ßßØ8ÇãŒÛØ2
+X
+java:S1854"6Remove this useless assignment to local variable "s1".(ŸûñÈúÿÿÿÿ8ÇãŒÛØ2
+I
+java:S1481"'Remove this unused "s1" local variable.(ŸûñÈúÿÿÿÿ8ÇãŒÛØ2
+D
+java:S1481"'Remove this unused "s2" local variable.(ßßØ8ÇãŒÛØ2
+I
+java:S1481"'Remove this unused "n1" local variable.(©­¨ÿÿÿÿÿ8ÇãŒÛØ2
+I
+java:S1481"'Remove this unused "n2" local variable.(ß‚Ä˜øÿÿÿÿ8ÇãŒÛØ2
+I
+java:S1481"'Remove this unused "n3" local variable.(ñ²¾™ûÿÿÿÿ8ÇãŒÛØ2
+X	java:S125"<This block of commented-out lines of code should be removed.(†ä††8ÇãŒÛØ2
+D
+java:S1481!"'Remove this unused "f1" local variable.(¼ïñ˜8ÇãŒÛØ2
+D
+java:S1481""'Remove this unused "d1" local variable.(»ãˆ8ÇãŒÛØ2
+I
+java:S1481$"'Remove this unused "f2" local variable.(Ô¿©¨øÿÿÿÿ8ÇãŒÛØ2
+C
+java:S1481%"'Remove this unused "d2" local variable.(ÖüªY8ÇãŒÛØ2
+]	java:S125'"<This block of commented-out lines of code should be removed.(ˆ·´ûÿÿÿÿ8ÇãŒÛØ2
+I
+java:S1481-"'Remove this unused "d3" local variable.(“§–Šüÿÿÿÿ8ÇãŒÛØ2
+C
+java:S1481."'Remove this unused "f3" local variable.(†áÒ8ÇãŒÛØ2
+X	java:S1250"<This block of commented-out lines of code should be removed.(–äûè8ÇãŒÛØ2
+C
+java:S14818"'Remove this unused "n5" local variable.(¡áõ)8ÇãŒÛØ2
+X	java:S125:"<This block of commented-out lines of code should be removed.(ªÁå8ÇãŒÛØ2
+W	java:S125B"<This block of commented-out lines of code should be removed.(ç»µ8ÇãŒÛØ2
+X	java:S125P"<This block of commented-out lines of code should be removed.(‚úÉû8ÇãŒÛØ2
+I
+java:S1481T"'Remove this unused "n6" local variable.(ÛÑ”úÿÿÿÿ8ÇãŒÛØ2
+X	java:S125V"<This block of commented-out lines of code should be removed.(»´¢û8ÇãŒÛØ2
+X	java:S125\"<This block of commented-out lines of code should be removed.(Æµçª8ÇãŒÛØ2
+]	java:S125b"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8ÇãŒÛØ2
+X	java:S125l"<This block of commented-out lines of code should be removed.(–îâ£8ÇãŒÛØ2
+W	java:S125x"<This block of commented-out lines of code should be removed.(ÜŠŠ8ÇãŒÛØ2
+L	java:S106~"+Replace this use of System.out by a logger.(ÇÍûÿÿÿÿ8ÖãŒÛØ2
+^	java:S125€"<This block of commented-out lines of code should be removed.(ıÛ„ÿøÿÿÿÿ8ÖãŒÛØ2
+H	java:S106†"+Replace this use of System.out by a logger.(¼×œ»8ÖãŒÛØ2
+G	java:S106‡"+Replace this use of System.out by a logger.(¯¶¼8ÖãŒÛØ2
+M	java:S106ˆ"+Replace this use of System.out by a logger.(·ô©Âÿÿÿÿÿ8ÖãŒÛØ2
+M	java:S106‰"+Replace this use of System.out by a logger.(à±Ï…ûÿÿÿÿ8ÖãŒÛØ2
+H	java:S106"+Replace this use of System.out by a logger.(Çæ¹8ÖãŒÛØ2
+M	java:S106‘"+Replace this use of System.out by a logger.(ñ¾Ùäøÿÿÿÿ8¡’ÛØ2
+M	java:S106—"+Replace this use of System.out by a logger.(’ñÀìıÿÿÿÿ8¢’ÛØ2
+M	java:S106˜"+Replace this use of System.out by a logger.(ÇÍûÿÿÿÿ8¢’ÛØ2
+G	java:S106›"+Replace this use of System.out by a logger.(æƒ¤8¢’ÛØ2
+v
+java:S3012§"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(øÉâ-8ÖãŒÛØ2
+^	java:S125¥"<This block of commented-out lines of code should be removed.(É®“ÿÿÿÿÿ8ÖãŒÛØ2
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ÖãŒÛØ2
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ÖãŒÛØ2
