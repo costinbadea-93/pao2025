@@ -1,0 +1,34 @@
+
+{
+java:S1171	"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8 µ”Û2
+G	java:S106"+Replace this use of System.out by a logger.(äšŠ8 µ”Û2
+X	java:S125
+"<This block of commented-out lines of code should be removed.(˜°°ú8 µ”Û2
+G	java:S106"+Replace this use of System.out by a logger.(¼«8 µ”Û2
+X	java:S125"<This block of commented-out lines of code should be removed.(³ìÙé8 µ”Û2
+L	java:S106"+Replace this use of System.out by a logger.(«‚šíıÿÿÿÿ8 µ”Û2
+b
+java:S1854J"@Remove this useless assignment to local variable "dataService2".(‰†‚¼şÿÿÿÿ8 µ”Û2
+b
+java:S1854I"@Remove this useless assignment to local variable "dataService1".(Ï…Õ•ûÿÿÿÿ8 µ”Û2
+Z
+java:S1854"8Remove this useless assignment to local variable "main".(²Äˆİÿÿÿÿÿ8 µ”Û2
+K
+java:S1481")Remove this unused "main" local variable.(²Äˆİÿÿÿÿÿ8 µ”Û2
+G	java:S106"+Replace this use of System.out by a logger.(ôæäµ8 µ”Û2
+]	java:S125,"<This block of commented-out lines of code should be removed.(Ô‘·ãÿÿÿÿÿ8 µ”Û2
+S
+java:S1481I"1Remove this unused "dataService1" local variable.(Ï…Õ•ûÿÿÿÿ8 µ”Û2
+S
+java:S1481J"1Remove this unused "dataService2" local variable.(‰†‚¼şÿÿÿÿ8 µ”Û2
+W	java:S125L"<This block of commented-out lines of code should be removed.(˜¾‹'8 µ”Û2
+G	java:S106V"+Replace this use of System.out by a logger.(Ã‡»Ù8 µ”Û2
+[
+java:S5993r"9Change the visibility of this constructor to "protected".(¯ê´”ùÿÿÿÿ8’ µ”Û2
+W	java:S125k"<This block of commented-out lines of code should be removed.(øş@8’ µ”Û2
+]	java:S125v"<This block of commented-out lines of code should be removed.(ÓˆÔ©şÿÿÿÿ8’ µ”Û2
+M	java:S106³"+Replace this use of System.out by a logger.(åŒ·Ëÿÿÿÿÿ8” µ”Û2
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ıİ¹”Û2
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8şİ¹”Û2
