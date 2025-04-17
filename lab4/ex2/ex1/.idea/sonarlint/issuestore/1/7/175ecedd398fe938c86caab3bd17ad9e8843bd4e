@@ -1,0 +1,43 @@
+
+g	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(¯³†”şÿÿÿÿ8æëã—ä2
+g	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æëã—ä2
+g	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æëã—ä2
+g	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æëã—ä2
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æëã—ä2
+h	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æëã—ä2
+h	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8çëã—ä2
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8á…è—ä2
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(á‡ñÿùÿÿÿÿ8çëã—ä2
+f
+java:S1192+"IDefine a constant instead of duplicating this literal "Account " 5 times.(§¤Ê8çëã—ä2
+t
+java:S1192+"WDefine a constant instead of duplicating this literal " not found. to top up." 4 times.(§¤Ê8çëã—ä2
+t
+java:S1192,"RDefine a constant instead of duplicating this literal "Account not found" 4 times.(…ëŠÖşÿÿÿÿ8çëã—ä2
+z
+java:S1192h"]Define a constant instead of duplicating this literal "src/main/resources/audit.txt" 6 times.(Áµá§8çëã—ä2
+t
+java:S2095š"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(ª¢Ü¯ıÿÿÿÿ8ìñì—ä2
+u
+java:S2095"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(Œ±€™ıÿÿÿÿ8óëã—ä2
+k
+java:S2095…"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÖÆĞí8§è—ä2
+p
+java:S2095z"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ê§‘úüÿÿÿÿ8óëã—ä2
+L	java:S1069"+Replace this use of System.out by a logger.(µõÇÏşÿÿÿÿ8úëã—ä2
+L	java:S106>"+Replace this use of System.out by a logger.(¾ÃË¢ÿÿÿÿÿ8úëã—ä2
+L	java:S106C"+Replace this use of System.out by a logger.(¾ÃË¢ÿÿÿÿÿ8úëã—ä2
+L	java:S106r"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8şëã—ä2
+b
+java:S2147~"ECombine this catch with the one at line 124, which has the same body.(ï­£Ä8şëã—ä2
+M
+java:S1172ƒ"*Remove this unused method parameter "log".(¦’»˜ÿÿÿÿÿ8ƒå—ä2
+G	java:S106‡"+Replace this use of System.out by a logger.(´şµ8ÿëã—ä2
+M
+java:S1172˜"*Remove this unused method parameter "log".(™üÄ÷ıÿÿÿÿ8¨•ì—ä2
+G	java:S106œ"+Replace this use of System.out by a logger.(´şµ8ø…è—ä2
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ø‰ï—ä2
+N
+java:S1128"1Remove this unused import 'java.time.ZoneOffset'.(ìÍÄË8ø‰ï—ä2

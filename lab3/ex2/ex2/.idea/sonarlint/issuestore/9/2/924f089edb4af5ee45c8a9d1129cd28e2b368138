@@ -1,0 +1,28 @@
+
+_
+java:S1854."=Remove this useless assignment to local variable "runnable1".(€¢ñÿÿÿÿÿ8œ¦®ºß2
+e
+java:S1854"CRemove this useless assignment to local variable "dbUtilsService2".(µÆ¶ƒÿÿÿÿÿ8œ¦®ºß2
+e
+java:S1854"CRemove this useless assignment to local variable "dbUtilsService1".( †åÔùÿÿÿÿ8œ¦®ºß2
+V
+java:S1481"4Remove this unused "dbUtilsService1" local variable.( †åÔùÿÿÿÿ8œ¦®ºß2
+V
+java:S1481"4Remove this unused "dbUtilsService2" local variable.(µÆ¶ƒÿÿÿÿÿ8œ¦®ºß2
+]	java:S125"<This block of commented-out lines of code should be removed.(­–¤Çşÿÿÿÿ8œ¦®ºß2
+]	java:S125"<This block of commented-out lines of code should be removed.(“‡‹®ûÿÿÿÿ8œ¦®ºß2
+L	java:S106."+Replace this use of System.out by a logger.(€¢ñÿÿÿÿÿ8œ¦®ºß2
+P
+java:S1481.".Remove this unused "runnable1" local variable.(€¢ñÿÿÿÿÿ8œ¦®ºß2
+]	java:S1257"<This block of commented-out lines of code should be removed.(Òİ²¼ıÿÿÿÿ8¾ñ®ºß2
+L	java:S1069"+Replace this use of System.out by a logger.(†ÄÃáùÿÿÿÿ8œ¦®ºß2
+]	java:S125A"<This block of commented-out lines of code should be removed.(Ë°”ùÿÿÿÿ8˜°ºß2
+]	java:S125d"<This block of commented-out lines of code should be removed.(ŸØÅÙûÿÿÿÿ8«¦®ºß2
+G	java:S106v"+Replace this use of System.out by a logger.(ŠÕÀÎ8«¦®ºß2
+L	java:S106~"+Replace this use of System.out by a logger.(éÙí×üÿÿÿÿ8«¦®ºß2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8«¦®ºß2
+M
+java:S1068ƒ"*Remove this unused "dbConn" private field.(Œ¥º¹úÿÿÿÿ8«¦®ºß2
+X
+java:S1144n";Remove this unused private "disconnectFromOracleDb" method.(ï¾“À8«¦®ºß2

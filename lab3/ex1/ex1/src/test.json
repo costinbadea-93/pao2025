@@ -1,0 +1,19 @@
+// Dog extends Animal -> animal(culoare), dog(nume)
+
+{
+  "culoare": "rosu",
+  "nume": "bobita"
+},
+
+//Team -> avem intern o lista de players -> team(teamName), player(playerName)
+{
+  "teamName" : "team1",
+  "players": [
+    {
+      "playerName" :"P1"
+    },
+    {
+    "playerName" :"P2"
+    }
+  ]
+}

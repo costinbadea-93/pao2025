@@ -1,0 +1,11 @@
+
+j
+java:S20958"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(“ÌØ”8¤ªú—ä2
+X	java:S125"<This block of commented-out lines of code should be removed.(¥òˆ¤8Ó÷—ä2
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ó÷—ä2
+L	java:S106:"+Replace this use of System.out by a logger.(óßƒØýÿÿÿÿ8‘Ó÷—ä2
+X	java:S125C"<This block of commented-out lines of code should be removed.(ôˆë8§Ó÷—ä2
+P
+java:S1128".Remove this unused import 'enums.AccountType'.(·Ù˜’ùÿÿÿÿ8§Ó÷—ä2
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8§Ó÷—ä2
