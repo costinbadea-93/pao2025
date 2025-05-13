@@ -1,0 +1,28 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ÇŸÑˆè2
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8şšñ¹è2
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8†•Òˆè2
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8şšñ¹è2
+Q
+java:S1128"5Remove this unused import 'java.io.RandomAccessFile'.(‰Œ)8ƒ›ñ¹è2
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8ÂïÑˆè2
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8ÂïÑˆè2
+j
+java:S1128"HRemove this unused import 'java.nio.file.attribute.BasicFileAttributes'.(“ããÿÿÿÿÿ8ÂïÑˆè2
+_
+java:S1128	"BRemove this unused import 'java.nio.file.attribute.FileAttribute'.(ü´âş8ÂïÑˆè2
+e
+java:S1128
+"HRemove this unused import 'java.nio.file.attribute.PosixFilePermission'.(ˆøñ8ÂïÑˆè2
+k
+java:S1128"IRemove this unused import 'java.nio.file.attribute.PosixFilePermissions'.(Œÿ¤ğıÿÿÿÿ8ÂïÑˆè2
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ÂïÑˆè2
+U
+java:S1128"3Remove this unused import 'java.util.RandomAccess'.(çºÜúÿÿÿÿ8ÂïÑˆè2
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ÂïÑˆè2
